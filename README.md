@@ -1,5 +1,4 @@
-![ineuron](https://img.shields.io/badge/LCO-Ineuron-yellowgreen)
-![live class](https://img.shields.io/badge/Live%20-class-red)
+
 <img src ="https://img.shields.io/badge/build%20-passing-lightgrey"/>
 <img src ="https://img.shields.io/badge/service-passing-lightgrey"/>
 <br>
