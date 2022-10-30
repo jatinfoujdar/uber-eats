@@ -13,7 +13,7 @@
 </span>
 
 <div id="header" align="center">
-  <img src="./src/image/1.png" width="250"/>
+  <img src="./src/image/1.png" width="550"/>
 <br>
   <div id="header" align="center">
   <img src="./src/image/2.png" width="250"/>
